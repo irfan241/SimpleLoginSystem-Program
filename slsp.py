@@ -4,7 +4,8 @@ SimpleLoginSystem Program
 This program takes a username and password from the user
 and checks them against predefined credentials.
 """
-
+username = "openacc"
+password = "123654"
 # Take username input from the user
 user_name = input("Enter user name: ")
 
